@@ -1,0 +1,276 @@
+{
+  "title": "Airborne Wind Energy",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Organizations",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Associations",
+          "id": 3
+        },
+        "2": {
+          "title": "Companies",
+          "id": 4
+        },
+        "3": {
+          "title": "Academics",
+          "id": 5
+        }
+      }
+    },
+    "2": {
+      "title": "Control",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Passive",
+          "id": 10
+        },
+        "2": {
+          "title": "Active",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Sensors",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "Embedded",
+                  "id": 13
+                },
+                "2": {
+                  "title": "Ground",
+                  "id": 14
+                }
+              }
+            },
+            "2": {
+              "title": "Actuators",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Embedded",
+                  "id": 16
+                },
+                "2": {
+                  "title": "Ground",
+                  "id": 17
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "title": "Energy transfer to ground",
+      "id": 21,
+      "ideas": {
+        "1": {
+          "title": "Direct",
+          "id": 25,
+          "ideas": {
+            "2": {
+              "title": "Mechanic",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Line tension",
+                  "id": 30,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Line or shaft torsion",
+                  "id": 31,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "Not very good but seen in some project"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Line oscillations",
+                  "id": 32,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "Implies mass so not very interesting"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Connecting rod",
+                  "id": 45
+                }
+              }
+            },
+            "3": {
+              "title": "Electric",
+              "id": 27,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Electromagnetic",
+              "id": 29
+            }
+          }
+        },
+        "2": {
+          "title": "With storage",
+          "id": 23
+        }
+      }
+    },
+    "4": {
+      "title": "Gravity counteraction",
+      "id": 37,
+      "ideas": {
+        "1": {
+          "title": "Aerodynamic lift",
+          "id": 38
+        },
+        "2": {
+          "title": "Buoyancy",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Helium",
+              "id": 48
+            },
+            "2": {
+              "title": "Hot air",
+              "id": 49
+            }
+          }
+        },
+        "3": {
+          "title": "Rigid mast",
+          "id": 40
+        }
+      }
+    },
+    "5": {
+      "title": "Stiffness",
+      "id": 56,
+      "ideas": {
+        "1": {
+          "title": "Soft materials with briddle",
+          "id": 57
+        }
+      }
+    },
+    "-1": {
+      "title": "Power generation",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Ground gen",
+          "id": 7
+        },
+        "2": {
+          "title": "Fly gen",
+          "id": 8
+        }
+      }
+    },
+    "-2": {
+      "title": "Anchoring",
+      "id": 18,
+      "ideas": {
+        "1": {
+          "title": "Single tether",
+          "id": 19
+        },
+        "2": {
+          "title": "Dynamic gliding",
+          "id": 20
+        },
+        "3": {
+          "title": "Multiple tethers",
+          "id": 50
+        }
+      }
+    },
+    "-3": {
+      "title": "Power extraction",
+      "id": 33,
+      "ideas": {
+        "1": {
+          "title": "Lift",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "Airfoil",
+              "id": 52,
+              "ideas": {
+                "1": {
+                  "title": "Thin airfoil/sail",
+                  "id": 54
+                },
+                "2": {
+                  "title": "Shaped airfoil",
+                  "id": 55
+                }
+              }
+            },
+            "2": {
+              "title": "Magnus/Flettner rotor",
+              "id": 53
+            }
+          }
+        },
+        "2": {
+          "title": "Drag only",
+          "id": 35
+        },
+        "3": {
+          "title": "Magnus/Flettner",
+          "id": 36
+        }
+      }
+    },
+    "-4": {
+      "title": "Energy use",
+      "id": 41,
+      "ideas": {
+        "1": {
+          "title": "Transport",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "Sea",
+              "id": 46
+            },
+            "2": {
+              "title": "Land",
+              "id": 47
+            }
+          }
+        },
+        "2": {
+          "title": "Pumping",
+          "id": 43
+        },
+        "3": {
+          "title": "Electric network",
+          "id": 44
+        }
+      }
+    }
+  },
+  "links": []
+}
