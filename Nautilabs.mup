@@ -1,0 +1,430 @@
+{
+  "title": "Nautilabs",
+  "ideas": {
+    "1": {
+      "title": "Projects",
+      "ideas": {
+        "1": {
+          "title": "Robokite",
+          "ideas": {
+            "1": {
+              "title": "Components",
+              "ideas": {
+                "1": {
+                  "title": "Actuator",
+                  "ideas": {
+                    "1": {
+                      "title": "Power electronics",
+                      "ideas": {
+                        "1": {
+                          "title": "H-Bridge",
+                          "attr": {
+                            "collapsed": "true",
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "L62065",
+                              "attr": {},
+                              "id": 8
+                            },
+                            "2": {
+                              "title": "Circuit",
+                              "attr": {},
+                              "id": 9
+                            },
+                            "3": {
+                              "title": "Thermal dissipation",
+                              "attr": {},
+                              "id": 10
+                            }
+                          },
+                          "id": 7
+                        },
+                        "2": {
+                          "title": "Sabertooth",
+                          "id": 11
+                        }
+                      },
+                      "id": 6
+                    },
+                    "2": {
+                      "title": "Motors",
+                      "attr": {
+                        "collapsed": "true",
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Electric connectors",
+                          "attr": {},
+                          "id": 13
+                        },
+                        "2": {
+                          "title": "Shaft",
+                          "attr": {
+                            "collapsed": "true"
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Diameter",
+                              "attr": {},
+                              "id": 15
+                            }
+                          },
+                          "id": 14
+                        }
+                      },
+                      "id": 12
+                    },
+                    "3": {
+                      "title": "Reductors",
+                      "ideas": {
+                        "1": {
+                          "title": "Gears",
+                          "id": 17
+                        }
+                      },
+                      "id": 16
+                    },
+                    "4": {
+                      "title": "Coupling",
+                      "id": 18
+                    },
+                    "5": {
+                      "title": "Torque limiter",
+                      "id": 19
+                    },
+                    "6": {
+                      "title": "Winch",
+                      "id": 20
+                    },
+                    "7": {
+                      "title": "Lines",
+                      "id": 21
+                    },
+                    "8": {
+                      "title": "Course limiter",
+                      "id": 22
+                    },
+                    "9": {
+                      "title": "Encoder",
+                      "id": 23
+                    }
+                  },
+                  "id": 5
+                },
+                "2": {
+                  "title": "Power supply",
+                  "ideas": {
+                    "1": {
+                      "title": "12V, 12A",
+                      "id": 25
+                    },
+                    "2": {
+                      "title": "5V or 9V, 500mA",
+                      "id": 26
+                    }
+                  },
+                  "id": 24
+                },
+                "3": {
+                  "title": "Sensors",
+                  "ideas": {
+                    "1": {
+                      "title": "Kite bare angle sensor",
+                      "ideas": {
+                        "1": {
+                          "title": "Cable connection",
+                          "id": 29
+                        }
+                      },
+                      "id": 28
+                    },
+                    "2": {
+                      "title": "Camera sensor",
+                      "ideas": {
+                        "1": {
+                          "title": "Wifi connection",
+                          "ideas": {
+                            "1": {
+                              "title": "TCP/IP",
+                              "id": 32
+                            }
+                          },
+                          "id": 31
+                        }
+                      },
+                      "id": 30
+                    },
+                    "3": {
+                      "title": "Camera orientation sensor",
+                      "ideas": {
+                        "1": {
+                          "title": "Wifi connection",
+                          "ideas": {
+                            "1": {
+                              "title": "UDP",
+                              "id": 35
+                            }
+                          },
+                          "id": 34
+                        }
+                      },
+                      "id": 33
+                    }
+                  },
+                  "id": 27
+                },
+                "4": {
+                  "title": "Controller",
+                  "ideas": {
+                    "1": {
+                      "title": "Kangaroo V2 card",
+                      "id": 37
+                    }
+                  },
+                  "id": 36
+                },
+                "5": {
+                  "title": "Safety release",
+                  "ideas": {
+                    "1": {
+                      "title": "Wichard release",
+                      "id": 39
+                    }
+                  },
+                  "id": 38
+                },
+                "6": {
+                  "title": "Kite bar",
+                  "ideas": {
+                    "1": {
+                      "title": "Pulleys ",
+                      "id": 41
+                    },
+                    "2": {
+                      "title": "Pulleys fixation",
+                      "id": 42
+                    }
+                  },
+                  "id": 40
+                },
+                "7": {
+                  "title": "Lines",
+                  "ideas": {
+                    "1": {
+                      "title": "Camera support",
+                      "id": 44
+                    },
+                    "2": {
+                      "title": "Tension measurement integration",
+                      "id": 45
+                    }
+                  },
+                  "id": 43
+                },
+                "8": {
+                  "title": "Kite",
+                  "id": 46
+                },
+                "9": {
+                  "title": "Lights",
+                  "id": 47
+                },
+                "10": {
+                  "title": "Ground anchor",
+                  "ideas": {
+                    "1": {
+                      "title": "Tent pegs",
+                      "id": 49
+                    }
+                  },
+                  "id": 48
+                },
+                "11": {
+                  "title": "Protection",
+                  "ideas": {
+                    "1": {
+                      "title": "Lightning protection",
+                      "ideas": {
+                        "1": {
+                          "title": "Varistance",
+                          "id": 52
+                        }
+                      },
+                      "id": 51
+                    },
+                    "2": {
+                      "title": "Electric protection",
+                      "ideas": {
+                        "1": {
+                          "title": "Fuse",
+                          "id": 54
+                        }
+                      },
+                      "id": 53
+                    }
+                  },
+                  "id": 50
+                }
+              },
+              "id": 4
+            },
+            "2": {
+              "title": "Features",
+              "ideas": {
+                "1": {
+                  "title": "Power steering",
+                  "id": 56
+                },
+                "2": {
+                  "title": "Remote control",
+                  "id": 57
+                },
+                "3": {
+                  "title": "Flight position keeping",
+                  "id": 58
+                },
+                "4": {
+                  "title": "Flight pattern tracking",
+                  "id": 59
+                }
+              },
+              "id": 55,
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          },
+          "id": 3
+        }
+      },
+      "id": 2
+    },
+    "2": {
+      "title": "Customers",
+      "id": 60
+    },
+    "-3": {
+      "title": "Contacts",
+      "ideas": {
+        "1": {
+          "title": "Navkite",
+          "attr": {
+            "collapsed": "true",
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Germain Belz ",
+              "attr": {},
+              "id": 63
+            }
+          },
+          "id": 62
+        },
+        "2": {
+          "title": "ENVSN",
+          "ideas": {
+            "1": {
+              "title": "Michel Parrate",
+              "id": 65
+            },
+            "2": {
+              "title": "Paul Iachkine",
+              "id": 66
+            }
+          },
+          "id": 64
+        },
+        "3": {
+          "title": "Beyond The Sea",
+          "ideas": {
+            "1": {
+              "title": "Yves Parlier",
+              "id": 68
+            },
+            "2": {
+              "title": "Marc Noesmoen",
+              "id": 69
+            },
+            "3": {
+              "title": "Fabien Griffon",
+              "id": 70
+            }
+          },
+          "id": 67
+        },
+        "4": {
+          "title": "DCNS Research",
+          "ideas": {
+            "1": {
+              "title": "Sirehna",
+              "ideas": {
+                "1": {
+                  "title": "Olivier Doucy",
+                  "id": 73
+                }
+              },
+              "id": 72
+            }
+          },
+          "id": 71
+        },
+        "5": {
+          "title": "ENSTA Bretagne",
+          "ideas": {
+            "1": {
+              "title": "Richard Leloup",
+              "id": 75
+            },
+            "2": {
+              "title": "Kostia Roncin",
+              "id": 76
+            },
+            "3": {
+              "title": "Guilhem Blès",
+              "id": 77
+            }
+          },
+          "id": 74
+        },
+        "6": {
+          "title": "GIPSA",
+          "ideas": {
+            "1": {
+              "title": "Jonathan Dumon",
+              "id": 79
+            }
+          },
+          "id": 78
+        },
+        "7": {
+          "title": "",
+          "id": 80
+        }
+      },
+      "id": 61
+    },
+    "-4": {
+      "title": "Volanz",
+      "id": 81
+    },
+    "-5": {
+      "title": "Omega Sail",
+      "id": 82
+    }
+  },
+  "formatVersion": 2,
+  "id": 1
+}
