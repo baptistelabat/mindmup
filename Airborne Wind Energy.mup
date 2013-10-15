@@ -53,7 +53,21 @@
               "ideas": {
                 "1": {
                   "title": "Embedded",
-                  "id": 16
+                  "id": 16,
+                  "ideas": {
+                    "1": {
+                      "title": "Elevator",
+                      "id": 76
+                    },
+                    "2": {
+                      "title": "Pitch ",
+                      "id": 77
+                    },
+                    "3": {
+                      "title": "Rudder",
+                      "id": 78
+                    }
+                  }
                 },
                 "2": {
                   "title": "Ground",
@@ -168,8 +182,60 @@
       "id": 56,
       "ideas": {
         "1": {
-          "title": "Soft materials with briddle",
+          "title": "No stiffness, bridle only",
           "id": 57
+        },
+        "2": {
+          "title": "Parafoil",
+          "id": 58
+        },
+        "3": {
+          "title": "Inflated",
+          "id": 59
+        },
+        "4": {
+          "title": "Tensairity",
+          "id": 60
+        },
+        "5": {
+          "title": "Rigid structure",
+          "id": 61
+        },
+        "6": {
+          "title": "Rigid skin",
+          "id": 62
+        }
+      }
+    },
+    "6": {
+      "title": "Power extraction motion",
+      "id": 70,
+      "ideas": {
+        "1": {
+          "title": "Static",
+          "id": 71
+        },
+        "2": {
+          "title": "Lissajous figure",
+          "id": 72,
+          "ideas": {
+            "1": {
+              "title": "Lemniscate/Figure of eight",
+              "id": 73
+            },
+            "2": {
+              "title": "Ellipse/loops",
+              "id": 74
+            },
+            "3": {
+              "title": "Up and downwind",
+              "id": 79
+            },
+            "4": {
+              "title": "Crosswind",
+              "id": 80
+            }
+          }
         }
       }
     },
@@ -268,6 +334,34 @@
         "3": {
           "title": "Electric network",
           "id": 44
+        }
+      }
+    },
+    "-5": {
+      "title": "Ground station motion",
+      "id": 63,
+      "ideas": {
+        "1": {
+          "title": "Translation",
+          "id": 64
+        },
+        "2": {
+          "title": "Fix",
+          "id": 66
+        },
+        "3": {
+          "title": "Lissajous figure",
+          "id": 67,
+          "ideas": {
+            "1": {
+              "title": "Lemniscate/Figure of eight",
+              "id": 68
+            },
+            "2": {
+              "title": "Ellipse/loop",
+              "id": 69
+            }
+          }
         }
       }
     }
